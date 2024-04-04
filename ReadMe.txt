@@ -1,0 +1,1 @@
+This project will allow a student to enter the name, credit hours, and grade of courses they have taken. The program uses a simple menu to prompt the user. 
